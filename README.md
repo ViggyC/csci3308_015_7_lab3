@@ -16,5 +16,4 @@ Changed in UI - Finbar
 
 Change in UI - Evie
 
-
-Change made to my branch? - Jamal
+"Project Team Members: Jamal - Branch change"
