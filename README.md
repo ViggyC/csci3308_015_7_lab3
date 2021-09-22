@@ -35,6 +35,10 @@ corrected changes made by leah
 
 Corrected changes-Vignesh
 
+<<<<<<< HEAD
 
 Something new
 
+=======
+Lol
+>>>>>>> main
